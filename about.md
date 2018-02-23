@@ -2,13 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hello!I am Jayant Sachdev from India.I am a Software Engineering graduate from Delhi Technological University(formely Delhi College Of Engineering), New Delhi. I have worked on various projects based on machine learning and deep learning techniques and published my research works as Technical Papers.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
